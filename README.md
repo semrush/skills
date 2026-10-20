@@ -19,8 +19,7 @@ process every time instead of improvising a new approach.
 |-----------------------|---------------------------------------------|----------------------------------------------------------------------------------------------------|
 | Technical SEO         | [technical-seo-audit](technical-seo-audit/) | Audit crawlability, Core Web Vitals, schema, and on-page signals in one pass                       |
 | Technical SEO         | [internal-link-audit](internal-link-audit/) | Find orphan pages, broken internal links, depth issues, and missing hubs                           |
-| Technical SEO         | [schema-markup](schema-markup/)             | Audit, draft, and validate structured data without inventing entity facts                          |
-| AI & Modern Search    | [ai-brand-visibility](ai-brand-visibility/) | Check whether ChatGPT, Gemini, and Perplexity mention your brand, and why                          |
+| Technical SEO         | [schema-markup](schema-markup/)             | Audit, draft, and validate structured data without inventing entity facts                          |                      |
 | Keyword Research      | [keyword-research](keyword-research/)       | Find keyword ideas with volume, difficulty, intent, and CPC, clustered by topic                    |
 | Keyword Research      | [content-brief](content-brief/)             | Turn one keyword into a brief a writer can ship: intent, SERP context, outline, FAQs, linking plan |
 | Rankings & SERPs      | [serp-analysis](serp-analysis/)             | Analyze the top 10 for any keyword: format, features, gaps, ranking strategy                       |
